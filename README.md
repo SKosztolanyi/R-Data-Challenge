@@ -1,5 +1,8 @@
 # KPMG R Data Challenge
 
+### My solution
+My solution is concerned with the Geo-analysis and the script together with visualisations can be found in KPMG-Data Challende folder.
+
 [English version](#english-version)
 
 U příležitosti hostování dalšího R Meetupu v našich pražských kancelářích jsme se rozhodli vyhlásit datovou challenge jak pro studenty, tak pro profesionály a další nadšence. Pro zájemce jsou k dispozici dvě rozdílné výzvy, nad kterými bychom rádi hostovali workshopy jako součást nadcházejícího [IV. Prague R Meetup](http://www.meetup.com/Prague-R-Meetup-Group/events/230654534/).
